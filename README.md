@@ -15,6 +15,8 @@ Task Master is built using Kotlin and is designed to streamline task management,
 
 - **Task Management**: Create, update, and delete tasks effortlessly.
 - **Priority & Categorization**: Assign priorities and categories to tasks.
+- **Local Storage**: Utilizes Room, a SQLite-based persistence library, to store tasks locally.
+
 
 ## Getting Started
 
