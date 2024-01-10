@@ -8,7 +8,7 @@ Task Master is built using Kotlin and is designed to streamline task management,
 
 ## Screenshots
 
-![Task Master App Screenshots](./Task_Master/task_master_screenshots/task_master_all.png)
+<img src="/task_master_screenshots/task_master_all.png" height="400px"/>
 
 ## Features
 
