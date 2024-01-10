@@ -24,7 +24,7 @@ To use Task Master locally or contribute to its development, follow these steps:
 
 1. **Clone the Repository**:
 
-git clone https://github.com/saimanikumar/Task_Master.git
+     - git clone https://github.com/saimanikumar/Task_Master.git
 
 2. **Open with Android Studio**:
 - Open Android Studio.
