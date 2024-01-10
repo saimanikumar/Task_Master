@@ -4,7 +4,7 @@ Welcome to Task Master! This application helps you organize your tasks effective
 
 ## Description
 
-Task Master is built using Kotlin and is designed to streamline task management, prioritization, and categorization, ensuring you stay on top of your commitments.
+Task Master is built using Kotlin and is designed to streamline task management, prioritization, and categorization.
 
 ## Screenshots
 
